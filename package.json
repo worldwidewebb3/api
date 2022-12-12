@@ -1,6 +1,6 @@
 {
   "name": "@worldwidewebb3/api",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "Public API client for Worldwide Webb",
   "main": "dist/index.js",
   "scripts": {

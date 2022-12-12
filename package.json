@@ -1,0 +1,26 @@
+{
+  "name": "@worldwidewebb3/api",
+  "version": "0.1.8",
+  "description": "Public API client for Worldwide Webb",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/worldwidewebb3/api"
+  },
+  "dependencies": {
+    "axios": "^1.2.1",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "typescript": "*"
+  },
+  "keywords": [],
+  "author": "Worldwide Webb",
+  "license": "MIT",
+  "publishConfig": {
+    "@worldwidewebb3:registry": "https://registry.npmjs.org"
+  }
+}
